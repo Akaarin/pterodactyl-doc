@@ -1,5 +1,5 @@
 ---
-description: 如果你是某服务商的客户，名下有你自己的服务器，就可以使用 Client API 对自己的服务器进行管理啦。
+description: 如果你是某服务商的客户，名下有你自己的面板服，就可以使用 Client API 对自己的面板服进行管理啦。
 ---
 
 # API - Client - 用户端

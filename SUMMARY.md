@@ -17,4 +17,5 @@
 
 * [API - Client - 用户端](api-wen-dang/api-client-yong-hu-duan.md)
 * [API - User - 用户管理](api-wen-dang/api-user-yong-hu-guan-li.md)
+* [API - Server - 面板服务器管理](api-wen-dang/api-server-mian-ban-fu-wu-qi-guan-li.md)
 
