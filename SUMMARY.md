@@ -2,6 +2,10 @@
 
 * [pterodactyl 中文用户教程](README.md)
 
+## 初见
+
+* [使用 SFTP 管理服务器](chu-jian/shi-yong-sftp-guan-li-fu-wu-qi.md)
+
 ## 进阶教程
 
 * [使用计划任务](jin-jie-jiao-cheng/shi-yong-ji-hua-ren-wu.md)
